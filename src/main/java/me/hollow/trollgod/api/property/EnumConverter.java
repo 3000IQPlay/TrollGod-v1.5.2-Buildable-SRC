@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package me.hollow.trollgod.api.property;
 
 import com.google.common.base.Converter;

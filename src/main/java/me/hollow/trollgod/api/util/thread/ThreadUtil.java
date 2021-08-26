@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package me.hollow.trollgod.api.util.thread;
 
 import java.util.concurrent.ExecutorService;

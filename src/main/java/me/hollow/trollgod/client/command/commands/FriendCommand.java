@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package me.hollow.trollgod.client.command.commands;
 
 import me.hollow.trollgod.TrollGod;

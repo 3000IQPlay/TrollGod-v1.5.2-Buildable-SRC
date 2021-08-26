@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package me.hollow.trollgod.client.gui.components;
 
 import me.hollow.trollgod.TrollGod;

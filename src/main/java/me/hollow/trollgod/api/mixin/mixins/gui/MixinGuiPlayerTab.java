@@ -1,6 +1,3 @@
-/*
- * Decompiled with CFR 0.151.
- */
 package me.hollow.trollgod.api.mixin.mixins.gui;
 
 import com.mojang.realmsclient.gui.ChatFormatting;
