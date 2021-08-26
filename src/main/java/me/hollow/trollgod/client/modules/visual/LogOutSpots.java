@@ -61,9 +61,6 @@ extends Module {
         return new AxisAlignedBB(bb.minX - this.mc.getRenderManager().viewerPosX, bb.minY - this.mc.getRenderManager().viewerPosY, bb.minZ - this.mc.getRenderManager().viewerPosZ, bb.maxX - this.mc.getRenderManager().viewerPosX, bb.maxY - this.mc.getRenderManager().viewerPosY, bb.maxZ - this.mc.getRenderManager().viewerPosZ);
     }
 
-    /*
-     * WARNING - Removed try catching itself - possible behaviour change.
-     */
     @Override
     public void onRender3D() {
         ArrayList<LogoutPos> syncSpots;
